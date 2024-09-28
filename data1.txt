@@ -1,0 +1,7 @@
+name: Govind
+email: govind@gmail.com
+phone: 3333333333
+address: sdkjhijvbsd
+gender: male
+qualification: MSc
+district: Kollam

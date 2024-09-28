@@ -1,0 +1,33 @@
+
+
+Fullname: Ayush vp 
+Email: aravind@gmail.com
+Phone: 222222222
+Address: rrrrrrrrrrrrrrr
+Gender: male
+Qualification: MSc
+District: Kottayam
+
+Fullname: Anulal 
+Email: aravind@gmail.com
+Phone: 222222222
+Address: rrrrrrrrrrrrrrr
+Gender: male
+Qualification: MSc
+District: Kottayam
+
+Fullname: Sainadh 
+Email: aravind@gmail.com
+Phone: 222222222
+Address: rrrrrrrrrrrrrrr
+Gender: male
+Qualification: MSc
+District: Kottayam
+
+Fullname: Govind 
+Email: govind@gmail.com
+Phone: 3333333333
+Address: sdkjhijvbsd
+Gender: male
+Qualification: MSc
+District: Kollam
